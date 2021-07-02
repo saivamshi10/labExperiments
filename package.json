@@ -1,0 +1,23 @@
+{
+  "name": "18r01a0583",
+  "version": "1.0.0",
+  "description": "lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saivamshi10/labExperiments.git"
+  },
+  "keywords": [
+    "html",
+    "css"
+  ],
+  "author": "sai_vamshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saivamshi10/labExperiments/issues"
+  },
+  "homepage": "https://github.com/saivamshi10/labExperiments#readme"
+}
